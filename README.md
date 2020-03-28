@@ -1,3 +1,3 @@
 # Flappy-Bird
 
-precisa arrumar o tubo superior, o mesmo anda para um pouco para frente
+precisa arrumar o tubo superior, o mesmo anda um pouco para frente
