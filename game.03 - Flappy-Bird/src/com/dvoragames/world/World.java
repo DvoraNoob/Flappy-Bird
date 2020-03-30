@@ -38,6 +38,7 @@ public class World {
 	
 	public static void restartGame(){
 		Game.score = 0;
+		Game.timeBack = 0;
 		Game.player = new Player(Game.WIDTH/2-12,Game.HEIGHT/2,17,12,2,Game.spritesheet.getSprite(2, 5,17,12));
 		Game.entities.clear();
 		Game.entities.add(Game.player);

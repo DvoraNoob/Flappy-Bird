@@ -7,6 +7,7 @@ import java.awt.image.BufferedImage;
 import com.dvoragames.main.Game;
 import com.dvoragames.world.Score;
 import com.dvoragames.world.Tubo;
+import com.dvoragames.world.TuboGen;
 import com.dvoragames.world.World;
 
 
